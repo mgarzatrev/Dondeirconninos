@@ -1,9 +1,9 @@
-title,lat,lng,category
-Parque Fundidora,25.681137,-100.290555,City
-Parque La Huasteca,25.644647,-100.495097,Nature
-Macroplaza,25.671665,-100.309238,City
-Parque Ecológico Chipinque,25.592479,-100.363312,Nature
-Museo del Acero,25.674036,-100.285474,City
-Cañón de la Huasteca,25.644255,-100.497595,Nature
-Planetario Alfa,25.626978,-100.306524,City
-Grutas de García,25.797526,-100.594676,Nature
+title,lat,lng,category,image,url
+Parque Fundidora,25.681137,-100.290555,City,https://picsum.photos/536/354,https://www.dondeirconninos.com/parques/parque-fundidora
+Parque La Huasteca,25.644647,-100.495097,Nature,https://picsum.photos/536/354,https://www.dondeirconninos.com/parques/parque-fundidora
+Macroplaza,25.671665,-100.309238,City,https://picsum.photos/536/354,https://www.dondeirconninos.com/parques/macroplaza
+Parque Ecológico Chipinque,25.592479,-100.363312,Nature,https://picsum.photos/536/354,https://www.dondeirconninos.com/parques/parque-fundidora
+Museo del Acero,25.674036,-100.285474,City,https://picsum.photos/536/354,https://www.dondeirconninos.com/parques/macroplaza
+Cañón de la Huasteca,25.644255,-100.497595,Nature,https://picsum.photos/536/354,https://www.dondeirconninos.com/parques/parque-fundidora
+Planetario Alfa,25.626978,-100.306524,City,https://picsum.photos/536/354,https://www.dondeirconninos.com/parques/macroplaza
+Grutas de García,25.797526,-100.594676,Nature,https://picsum.photos/536/354,https://www.dondeirconninos.com/parques/macroplaza
