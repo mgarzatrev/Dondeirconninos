@@ -20,13 +20,13 @@ body {
 }
 
 #map {
-    flex: 1;
+    flex: 4; /* Adjust the proportion for map */
     height: 600px; /* Adjust height as needed */
     width: 100%; /* Ensure map takes up full width */
 }
 
 #markerList {
-    flex: 1;
+    flex: 1; /* Adjust the proportion for marker list */
     overflow-y: auto;
     padding: 20px;
     background-color: #fff;
