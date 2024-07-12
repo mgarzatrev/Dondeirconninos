@@ -1,0 +1,74 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#map {
+    height: 600px;
+    width: 100%;
+    max-width: 1200px;
+    margin-top: 20px;
+}
+
+#filterForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px 0;
+}
+
+#filterForm label, #filterForm input, #filterForm select, #filterForm button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+#filterForm button {
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+}
+
+#filterForm button:hover {
+    background-color: #45a049;
+}
+
+#markerList {
+    max-width: 1200px;
+    width: 100%;
+    max-height: 400px;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 20px 0;
+    background-color: #f9f9f9;
+}
+
+.marker-list-item {
+    margin-bottom: 5px;
+}
+
+.info-window-content {
+    display: flex;
+    align-items: center;
+}
+
+.info-window-content img {
+    width: 50px;
+    height: auto;
+    margin-right: 10px;
+}
+
+.info-window-content a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+.info-window-content a:hover {
+    text-decoration: underline;
+}
