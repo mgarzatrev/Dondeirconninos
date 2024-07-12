@@ -53,6 +53,17 @@ body {
     margin-bottom: 5px;
 }
 
+.marker-list-item img {
+    max-width: 50px;
+    max-height: 50px;
+    margin-right: 10px;
+}
+
+.marker-list-item a {
+    display: block;
+    margin-top: 5px;
+}
+
 .info-window-content {
     display: flex;
     align-items: center;
